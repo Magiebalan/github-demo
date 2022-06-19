@@ -5,6 +5,11 @@ step 2: import access
 step 3: main class
 
 step 4: code
+int a,b;
+a=5;
+b=6;
+int c=a+b;
+sysout("add: "+c);
 
 step 5: End 
 
