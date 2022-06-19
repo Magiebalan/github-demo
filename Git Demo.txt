@@ -11,9 +11,11 @@ b=6;
 int c=a+b;
 int d=a-b;
 int e=a*b;
+int f=a/b;
 system.out.println("add: "+c);
 system.out.println("mul: "+e);
 system.out.println("sub: "+d);
+system.out.println("div: "+f);
 
 step 5: End 
 
