@@ -9,6 +9,7 @@ int a,b;
 a=5;
 b=6;
 int c=a+b;
+
 int d=a-b;
 int e=a*b;
 system.out.println("add: "+c);
@@ -17,7 +18,5 @@ system.out.println("sub: "+d);
 
 step 5: End 
 
-step 6: Complie and run
-
-step 7: error handling
+step 6: Complie
 
