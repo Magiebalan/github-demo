@@ -9,7 +9,12 @@ int a,b;
 a=5;
 b=6;
 int c=a+b;
-sysout("add: "+c);
+
+int d=a-b;
+int e=a*b;
+system.out.println("add: "+c);
+system.out.println("mul: "+e);
+system.out.println("sub: "+d);
 
 step 5: End 
 
